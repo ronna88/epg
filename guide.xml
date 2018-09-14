@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Telecine Action HD [Alter 2]">
+    <display-name lang="pt">Telecine Action HD [Alter 2]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Premium HD [Alter 2]">
+    <display-name lang="pt">Telecine Premium HD [Alter 2]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20180914013500 -0300" stop="20180914032500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Jogos Mortais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914032500 -0300" stop="20180914045500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Luxúria: A Iniciação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914045500 -0300" stop="20180914063000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">O Chupa-Cabra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914063000 -0300" stop="20180914083500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Indiana Jones e os Caçadores da Arca Perdida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914083500 -0300" stop="20180914102000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">O Olho do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914102000 -0300" stop="20180914121000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">A Negociação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914121000 -0300" stop="20180914140000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Penalidade Máxima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914140000 -0300" stop="20180914155000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Reino de Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914155000 -0300" stop="20180914173000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Skyline</title>
+    <sub-title lang="pt">A Invasão</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914173000 -0300" stop="20180914195000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Sob o Domínio do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914195000 -0300" stop="20180914220000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Triplo X</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914220000 -0300" stop="20180914235500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">xXx: Reativado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914235500 -0300" stop="20180915015000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Terra Violenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915015000 -0300" stop="20180915033500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">A Entidade 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915033500 -0300" stop="20180915050000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">A Patroa Experiente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915050000 -0300" stop="20180915070000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Mergulho Radical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915070000 -0300" stop="20180915085000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Velocidade Terminal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915085000 -0300" stop="20180915103500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">O Último Rei</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915103500 -0300" stop="20180915122000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Confidence</title>
+    <sub-title lang="pt">O Golpe Perfeito</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915122000 -0300" stop="20180915135500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Oeste Sem Lei</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915135500 -0300" stop="20180915155500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">A Liga Extraordinária</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915155500 -0300" stop="20180915173500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">O Grande Roubo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915173500 -0300" stop="20180915195000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Capitão América: O Primeiro Vingador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915195000 -0300" stop="20180915220000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Thor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915220000 -0300" stop="20180916003000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">The Avengers</title>
+    <sub-title lang="pt">Os Vingadores</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916003000 -0300" stop="20180916023500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Homem-Formiga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916023500 -0300" stop="20180916041000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Dia de Trabalho Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916041000 -0300" stop="20180916065500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">O Lamento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916065500 -0300" stop="20180916083500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Sacrifício</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916083500 -0300" stop="20180916103500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Perdido em Hong Kong</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916103500 -0300" stop="20180916121000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Atividade Paranormal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916121000 -0300" stop="20180916140500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Assassin's Creed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916140500 -0300" stop="20180916160000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Corpo Fechado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916160000 -0300" stop="20180916181500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Triplo X</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916181500 -0300" stop="20180916201500 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">xXx: Reativado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916201500 -0300" stop="20180916220000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">Com As Próprias Mãos 2</title>
+    <sub-title lang="pt">O Troco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916220000 -0300" stop="20180917001000 -0300" channel="Telecine Action HD [Alter 2]">
+    <title lang="pt">O Senhor das Armas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914003000 -0300" stop="20180914030500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Amaldiçoada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914030500 -0300" stop="20180914044500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">O Preço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914044500 -0300" stop="20180914064500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Cidade Louca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914064500 -0300" stop="20180914082500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Guiados pelo Coração</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914082500 -0300" stop="20180914102000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">A Senhora da Van</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914102000 -0300" stop="20180914120500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Debaixo do Mesmo Teto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914120500 -0300" stop="20180914135000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">A Origem do Dragão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914135000 -0300" stop="20180914155000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Amor em Tempos de Guerra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914155000 -0300" stop="20180914181500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Logan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914181500 -0300" stop="20180914200500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Um Laço de Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914200500 -0300" stop="20180914202000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Meu Malvado Favorito Apresenta: Loucuras dos Minions</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914202000 -0300" stop="20180914220000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Meu Malvado Favorito 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914220000 -0300" stop="20180914235000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">De Volta Para Casa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180914235000 -0300" stop="20180915014500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Os Farofeiros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915014500 -0300" stop="20180915041000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Snowden: Herói ou Traidor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915041000 -0300" stop="20180915055500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Sem Controle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915055500 -0300" stop="20180915074000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Tal Mãe, Tal Filha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915074000 -0300" stop="20180915095500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Spotlight</title>
+    <sub-title lang="pt">Segredos Revelados</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915095500 -0300" stop="20180915113500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Boyka: O Imbatível</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915113500 -0300" stop="20180915134000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Vida Dupla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915134000 -0300" stop="20180915153000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Moana: Um Mar de Aventuras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915153000 -0300" stop="20180915172500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Os Parças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915172500 -0300" stop="20180915194000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Baywatch: S.O.S. Malibu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915194000 -0300" stop="20180915220000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Piratas do Caribe: A Vingança de Salazar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915220000 -0300" stop="20180915234500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">A Escolha Perfeita 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180915234500 -0300" stop="20180916013000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">O Sequestro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916013000 -0300" stop="20180916031500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">O Bom Vizinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916031500 -0300" stop="20180916055000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Amaldiçoada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916055000 -0300" stop="20180916074000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Que Família É Essa?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916074000 -0300" stop="20180916093500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Amor em Tempos de Guerra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916093500 -0300" stop="20180916112000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Um Tira e Meio: A Nova Recruta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916112000 -0300" stop="20180916131000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Um Laço de Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916131000 -0300" stop="20180916132500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Meu Malvado Favorito Apresenta: Loucuras dos Minions</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916132500 -0300" stop="20180916150500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Meu Malvado Favorito 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916150500 -0300" stop="20180916165500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">De Volta Para Casa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916165500 -0300" stop="20180916193000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Kingsman: O Círculo Dourado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916193000 -0300" stop="20180916220000 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Planeta dos Macacos: A Guerra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916220000 -0300" stop="20180916235500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Os Farofeiros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180916235500 -0300" stop="20180917015500 -0300" channel="Telecine Premium HD [Alter 2]">
+    <title lang="pt">Tinha Que Ser Ele?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
